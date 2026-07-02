@@ -1,0 +1,4 @@
+Contact: mailto:swirl-jump-viral@duck.com
+Expires: 2027-07-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://castles.gg/.well-known/security.txt
