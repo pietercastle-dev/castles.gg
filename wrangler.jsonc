@@ -1,0 +1,9 @@
+// Cloudflare Workers (static assets) — explicit config so builds are
+// deterministic and wrangler skips framework auto-detection.
+{
+  "name": "castles-gg",
+  "compatibility_date": "2026-07-02",
+  "assets": {
+    "directory": "./dist"
+  }
+}
