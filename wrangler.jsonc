@@ -4,6 +4,7 @@
   "name": "castles-gg",
   "compatibility_date": "2026-07-02",
   "routes": [
+    { "pattern": "castles.gg", "custom_domain": true },
     { "pattern": "cfworker.castles.gg", "custom_domain": true }
   ],
   "assets": {
